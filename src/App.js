@@ -1,12 +1,12 @@
 import React from 'react';
 
-import Form from './Form';
+import CustomForm from './Form';
 
 
 function App() {
   return (
     <div className="app">
-        <Form/>
+        <CustomForm/>
     </div>
   );
 }
