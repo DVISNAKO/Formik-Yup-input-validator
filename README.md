@@ -1,3 +1,6 @@
+
+![Screenshot 2023-10-09 110703](https://github.com/DVISNAKO/Formik-Yup-input-validator/assets/106438454/5d765725-59df-41f5-a6ac-8c26089c0aa6)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
